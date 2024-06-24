@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lefunritze.github.io/sitemap
+Sitemap: https://lefunritze.github.io/app/sitemap
+Sitemap: https://lefunritze.github.io/assets/sitemap
+Sitemap: https://lefunritze.github.io/css/sitemap
+Sitemap: https://lefunritze.github.io/includes/sitemap
+Sitemap: https://lefunritze.github.io/item/sitemap
+Sitemap: https://lefunritze.github.io/src/sitemap
